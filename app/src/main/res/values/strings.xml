@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Alipaytransport</string>
+    <string name="app_name">HookAlipayTrans</string>
+    <string name="info">功能：Hook Alipay 部分通信接口\n\n适用版本：10.1.25.752\n\n所有信息通过logcat输出，仅用于数据分析\n
+        ！！！请勿用于其他非法用途！！！\n\n\n\n\n\n\n\n\n\n\n\n\n</string>
 </resources>
